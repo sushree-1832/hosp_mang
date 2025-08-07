@@ -1,7 +1,7 @@
 # Hospital Management System
-The project Hospital Management System is developed to enhance hospital operations by providing an efficient, secure, and user-friendly web-based platform. 
-It emphasizes on agile development, secure authentication, and real-time data handling, significantly improving healthcare service efficiency and patient care.
-The system supports role-based access for administrators, doctors, pathologists, and dispensary staff. 
+- The project Hospital Management System is developed to enhance hospital operations by providing an efficient, secure, and user-friendly web-based platform. 
+- It emphasizes on agile development, secure authentication, and real-time data handling, significantly improving healthcare service efficiency and patient care.
+- The system supports role-based access for administrators, doctors, pathologists, and dispensary staff. 
 # Key features 
 - Patient registration
 - Appointment scheduling
