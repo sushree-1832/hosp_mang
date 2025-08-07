@@ -3,14 +3,14 @@ The project Hospital Management System is developed to enhance hospital operatio
 It emphasizes on agile development, secure authentication, and real-time data handling, significantly improving healthcare service efficiency and patient care.
 The system supports role-based access for administrators, doctors, pathologists, and dispensary staff. 
 # Key features 
-Patient registration
-Appointment scheduling
-Medical record handling
-Medicine inventory management
-Diagnostic reporting. 
-Chatbot integrated with ChatGPT provides disease-related information. 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-Built using ReactJS, Node.js, MongoDB, and Tailwind CSS, 
+- Patient registration
+- Appointment scheduling
+- Medical record handling
+- Medicine inventory management
+- Diagnostic reporting. 
+- Chatbot integrated with ChatGPT provides disease-related information. 
+
+# Built using ReactJS, Node.js, MongoDB, Vite and Tailwind CSS 
 
 Currently, two official plugins are available:
 
